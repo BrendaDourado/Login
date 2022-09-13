@@ -32,9 +32,6 @@
 	        <li class="nav-item">
 	          <a class="nav-link" href="?page=cadastrar">Cadastrar Usuário</a>
 	        </li>
-	        <li class="nav-item">
-	          <a class="nav-link" href="?page=cadastrar">Cadastrar Usuário</a>
-	        </li>
 	       </ul>
 	   </div>
         <div class="float-end">
