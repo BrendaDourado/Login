@@ -5,6 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Sistema de Login</title>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
 <body>
 	<div class="container">
@@ -20,6 +21,7 @@
 							<div class="mb-3">
 								<input type="password" name="senha" placeholder="Senha" class="form-control">
 							</div>
+							<div class="g-recaptcha" data-sitekey="6Lf48xUiAAAAAK-OMz7YSdGSezxJG9OdM1hGUsNc"></div>
 							<div class="mb-3">
 								<a href="recuperarSenha.php">Esqueceu a senha?</a>
 							</div>
